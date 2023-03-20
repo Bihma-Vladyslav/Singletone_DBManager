@@ -1,0 +1,13 @@
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\bin\Debug\Database1.mdf
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\bin\Debug\Database1_log.ldf
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\bin\Debug\Singletone_DBManager.exe.config
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\bin\Debug\Singletone_DBManager.exe
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\bin\Debug\Singletone_DBManager.pdb
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\obj\Debug\Singletone_DBManager.csproj.AssemblyReference.cache
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\obj\Debug\Singletone_DBManager.Form1.resources
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\obj\Debug\Singletone_DBManager.Properties.Resources.resources
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\obj\Debug\Singletone_DBManager.csproj.GenerateResource.cache
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\obj\Debug\Singletone_DBManager.csproj.CoreCompileInputs.cache
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\obj\Debug\Singletone_DBManager.exe
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\obj\Debug\Singletone_DBManager.pdb
+D:\Visual Studio расположение\source\repos\Singletone_DBManager\Singletone_DBManager\obj\Debug\Singletone_DBManager.Form2.resources
